@@ -12,12 +12,12 @@ body{
   min-height: 100vh;
   align-items: center;
   justify-content: center;
-  background: #000000;
+  background: #222222;
 }
 .container{
   width: 850px;
   padding: 30px 35px 35px;
-  background: #fff;
+  background: #2F2F2F;
   border-radius: 10px;
   box-shadow: 0 10px 20px rgba(0,0,0,0.1);
 }
@@ -58,7 +58,7 @@ body{
   height: 40px;
   font-size: 14px;
   color: #6C757D;
-  background: #fff;
+  background: #2F2F2F;
   border-radius: 3px;
   margin-bottom: 8px;
   border: 1px solid #aaa;
@@ -70,7 +70,7 @@ body{
   background: #f5f5f5;
 }
 .filter button.active{
-  color: #fff;
+  color: #2F2F2F;
   border-color: #5372F0;
   background: #5372F0;
 }
@@ -102,7 +102,7 @@ body{
   font-size: 18px;
 }
 .rotate .options button:active{
-  color: #fff;
+  color: #2F2F2F;
   background: #5372F0;
   border-color: #5372F0;
 }
@@ -127,7 +127,7 @@ body{
   font-size: 14px;
   border-radius: 3px;
   outline: none;
-  color: #fff;
+  color: #2F2F2F;
   cursor: pointer;
   background: none;
   transition: all 0.3s ease;
@@ -138,7 +138,7 @@ body{
   border: 1px solid #6C757D;
 }
 .controls .reset-filter:hover{
-  color: #fff;
+  color: #2F2F2F;
   background: #6C757D;
 }
 .controls .choose-img{
