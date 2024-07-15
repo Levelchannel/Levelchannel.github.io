@@ -81,7 +81,7 @@ body{
 }
 .filter .slider .filter-info{
   display: flex;
-  color: #464646;
+  color: #fff;
   font-size: 14px;
   justify-content: space-between;
 }
