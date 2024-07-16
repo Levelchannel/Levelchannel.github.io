@@ -144,14 +144,14 @@ body{
   background: #6C757D;
 }
 .controls .choose-img{
-  background: #6C757D;
-  border: 1px solid #6C757D;
+  background: #010409;
+  border: 1px solid #30363d;
+  color: #fff;
 }
 .controls .save-img{
   margin-left: 5px;
-  background: #161b22;
+  background: #171B20;
   border: 1px solid #30363d;
-  color: #fff;
 }
 
 @media screen and (max-width: 760px) {
