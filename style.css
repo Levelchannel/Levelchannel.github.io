@@ -149,8 +149,9 @@ body{
 }
 .controls .save-img{
   margin-left: 5px;
-  background: #171B20;
-  border: 1px solid #171B20;
+  background: #161b22;
+  border: 1px solid #30363d;
+  color: #fff;
 }
 
 @media screen and (max-width: 760px) {
